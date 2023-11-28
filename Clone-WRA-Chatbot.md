@@ -108,6 +108,11 @@ Download interactions
 ![textit-reports-download](textit-reports-download.png)
 
 
+## Customize a Country Location API 
+Integrating a custom API to provide location information for all world countries in your chatbot. This feature is essential for localizing language preferences based on the user's phone or Whatsapp number prefix or the flag emoji of their country. See details here:
+
+[LocationAPI](./LocationAPI/Setup_Divisions_Countries_API_Call.md) 
+
 ## Useful Links
 
 This section provides a collection of valuable resources and links for those interested in Textit, RapidPro, and related technologies. Whether you're looking for insights, tools, or community stories, these links offer a wealth of information.
@@ -135,6 +140,7 @@ This section provides a collection of valuable resources and links for those int
 Leverage these tools for natural language processing and understanding in your chatbot projects.
 *  **LUIS**
 *  **WIT**
+  
 [See NLU_alternatives](./NLU/NLU_alternatives.md)
 
 ### Alternatives for WhatsApp Channels
