@@ -15,12 +15,12 @@ Welcome to the repository of the WRA Global Social Impact Chatbot, an innovative
 - **Geographic Specificity**: To provide context-aware responses, the chatbot includes detailed geographic data, including country codes, administrative divisions, and phone codes.
 - **Socially Relevant Content**: Drawing from the [What Women Want campaign](https://whiteribbonalliance.org/resources/what-women-want-chatbot-brochure/) by the White Ribbon Alliance, the chatbot is loaded with content that addresses vital community issues, focusing on health, empowerment, and support.
 
-## Our Mission
+## Sharing the Knowledge
 
 Aligned with the goals and values of the [White Ribbon Alliance](https://whiteribbonalliance.org/), this project is not just about technology; it's about harnessing that technology for the greater good. Our mission is to create a tool that can reach across borders and barriers, bringing support and information to those who need it most.
 
-## Clone the chatbot project
-Here are the steps to follow and replicate the chatbot on your own context. [Clone-WRA-Chatbot](Clone-WRA-Chatbot.md)
+## Clone the WRA Chatbot Project
+Here are the steps to follow to replicate the open-source chatbot on your own context. [Clone-WRA-Chatbot](Clone-WRA-Chatbot.md)
 
 ## Community Involvement
 
@@ -41,7 +41,7 @@ Your participation can make a significant difference. Together, we can build a c
 # WRA Global Social Impact Chatbot Project
 
 
-## Chatbot Configuration Manual in Textit
+## Chatbot Configuration in Textit
 
 This guide provides step-by-step instructions for setting up a chatbot in Textit, utilizing provided flow files from WRA project. You can either use Textit directly or install RapidPro, the open-source foundation of Textit.
 
@@ -57,16 +57,16 @@ This guide provides step-by-step instructions for setting up a chatbot in Textit
 
 ![textit-signup](textit-signup.png)
 
-### 3. Alternative: Install RapidPro
+### 3. Alternative: Install RapidPro on your servers
 
 * Optionally, install your own instance of RapidPro.
 * Installation guide: [RapidPro Hosting Documentation](https://rapidpro.github.io/rapidpro/docs/hosting/).
 
-### 4. Download Flow Files
+### 4. Download the WRA Chatbot Textit Flows File
 
 * Download flow files from the provided repository into the `Flows` folder [here](https://github.com/whiteribbonalliance/WRA-Chatbot-Open-Source-Kit/tree/main/Flows). 
 
-### 5. Import Flow Files into Textit
+### 5. Import Flows File into Textit
 
 * Go to the import section in Textit and upload the downloaded flow files.
 ![import-flows](import-flows.png)
