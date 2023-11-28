@@ -3,8 +3,6 @@
 
 ## Chatbot Configuration Manual in Textit
 
-## Introduction
-
 This guide provides step-by-step instructions for setting up a chatbot in Textit, utilizing provided flow files from WRA project. You can either use Textit directly or install RapidPro, the open-source foundation of Textit.
 
 ## Configuration Steps
