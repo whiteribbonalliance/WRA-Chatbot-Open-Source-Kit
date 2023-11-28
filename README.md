@@ -129,7 +129,7 @@ Telegram
 
   ![texit-flow-simulator](texit-flow-simulator.png)
 
-### 14. Import User List (Optional)
+### 14. Import Your Own Contacts List (Optional)
 
 * You may import a pre-existing user list if available.
 
