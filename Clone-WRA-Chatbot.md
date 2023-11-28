@@ -26,7 +26,7 @@ This guide provides step-by-step instructions for setting up a chatbot in Textit
 
 ### 4. Download Flow Files
 
-* Download flow files from the provided repository into the `Flows` folder [here](https://github.com/whiteribbonalliance/WRA-Chatbot-Open-Source-Kit/blob/main/Flows/flows-all-wra-chatbot.json). 
+* Download flow files from the provided repository into the `Flows` folder [here](https://github.com/whiteribbonalliance/WRA-Chatbot-Open-Source-Kit/tree/main/Flows). 
 
 ### 5. Import Flow Files into Textit
 
