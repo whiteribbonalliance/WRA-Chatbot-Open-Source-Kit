@@ -153,7 +153,7 @@ Integrating a custom API to provide location information for all world countries
 
 ### Using a simple spreadsheet as data source
 
-The data that powers the API described in this guide is meticulously organized in a spreadsheet, enabling the creation of a Google Script to transform this data into a functional API. The Excel file containing this valuable data is named `WWW_Country_States_Sub-Divisions.xlsx`. By leveraging this resource, you can significantly enhance the global reach and contextual relevance of your chatbot or digital service.
+The data that powers the API described in this guide is meticulously organized in a spreadsheet, enabling the creation of a Google Script to transform this data into a functional API. The Excel file containing this valuable data is named `WWW_Country_States_Sub-Divisions.xlsx`. By leveraging this resource, you can significantly enhance the global reach and contextual relevance of your chatbot or digital service. [Download Spreadsheet here](https://github.com/whiteribbonalliance/WRA-Chatbot-Open-Source-Kit/tree/main/Spreadsheets).
 
 ![Image](./LocationAPI/location-data-spreadsheet.png)
 
