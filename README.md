@@ -95,7 +95,7 @@ See the full list of variables in the project: [Variables List](Variables-List.m
 
 ### 9. Use 'Templates' Flows
 
-* Identify flows marked as 'Templates' for copying and use.
+* Identify flows marked as `Templates` for copying and use. [Download Templates here](https://github.com/whiteribbonalliance/WRA-Chatbot-Open-Source-Kit/tree/main/Flows/Templates/)
 
 ### 10. Configure 'Triggers'
 
@@ -150,6 +150,12 @@ Download interactions
 Integrating a custom API to provide location information for all world countries in your chatbot. This feature is essential for localizing language preferences based on the user's phone or Whatsapp number prefix or the flag emoji of their country. See details here:
 
 [LocationAPI](./LocationAPI/Setup_Divisions_Countries_API_Call.md) 
+
+### Using a simple spreadsheet as data source
+
+The data that powers the API described in this guide is meticulously organized in a spreadsheet, enabling the creation of a Google Script to transform this data into a functional API. The Excel file containing this valuable data is named `WWW_Country_States_Sub-Divisions.xlsx`. By leveraging this resource, you can significantly enhance the global reach and contextual relevance of your chatbot or digital service.
+
+![Image](./LocationAPI/location-data-spreadsheet.png)
 
 ## Useful Links
 
