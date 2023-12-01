@@ -224,10 +224,10 @@ Leverage these tools for natural language processing and understanding in your c
 
 ### Alternatives for WhatsApp Channels
 
-Explore these platforms as alternatives or additional options for integrating WhatsApp and other messaging channels into your chatbot.
+Explore these platforms as alternatives or additional options for integrating Whatsapp and other messaging channels into your chatbot.
 
 *   **Twilio**: A cloud communications platform offering a variety of messaging services.
-*   **360Dialog**: Specializes in WhatsApp Business API solutions.
+*   **360Dialog**: Specializes in Whatsapp Business API solutions. Great[ Whatsapp API documentation](https://docs.360dialog.com/docs/360dialog/why-you-should-use-360dialog-as-business-solution-provider-bsp).
 *   **Telegram**: A cloud-based mobile and desktop messaging app with a focus on security and speed.
 *   **FB Messenger**: Facebook's instant messaging platform.
 *   **Web (RocketChat)**: An open-source team communication platform that can be used for web messaging.
@@ -235,5 +235,5 @@ Explore these platforms as alternatives or additional options for integrating Wh
 
 ## Conclusion
 
-Following these steps will enable you to set up and customize a chatbot in Textit tailored to your project's needs. It is advisable to refer to specific documentation for Textit and RapidPro for more technical details and comprehensive guides.
+Following these steps will enable you to set up and customize a chatbot in Textit tailored to your project's needs. It is advisable to refer to specific documentation for [Textit](https://help.textit.com/en/) and [RapidPro](https://rapidpro.github.io/flows/concepts/) for more technical details and comprehensive guides.
 
