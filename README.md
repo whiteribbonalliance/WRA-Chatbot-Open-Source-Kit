@@ -41,7 +41,7 @@ Your participation can make a significant difference. Together, we can build a c
 
 This guide provides step-by-step instructions for setting up a chatbot in Textit, utilizing provided flow files from WRA project. You can either use Textit directly or install RapidPro, the open-source foundation of Textit.
 
-## General Chabtot Architecture
+## General WRA Chatbot Architecture
 ![textit-architecture-diagram](textit-architecture-diagram.png)
 
 This diagram illustrates the interaction flow of the WRA Chatbot solution. It begins with the users that interact with Whatsapp, which facilitates the sending and receiving of messages, and then the Whatsapp API connects to a platform named Textit. Textit manages these messages through predefined flows and logic, using menus and also it integrates a natural language processing tool (either WIT or LUIS) to interpret some input user responses. Additionally, the chatbot utilizes Google Script for supplementary tasks to identify country codes, languages, and some translations in a spreadsheet. Ultimately, it compiles visual reports and dashboards, utilizing data from TextIt combined with external APIs. You can adapt this architecture diagram to your own requirements using generic diagram software and the provided `Mermaid code` as shown below:
@@ -71,9 +71,9 @@ graph LR
 ## Dashboards showing the campaign results
 
 ![dashboard-example](dashboard-example.png)
-The project also implements a dashboard for reports, to see detailed results of campaigns as an extension of the analytic capabilities of the system. These reports show  how users interacted. They also tell us about the types of people who interacted with the chatbot and how they response about the survey questions. This information helps the team understand the campaigns. The dashboards also let the team compare different campaigns to see which ones are more successful with the audience.
+The project also implements a dashboard for reports, to see detailed results of campaigns as an extension of the analytic capabilities of the system. These reports show  how users interacted. They also tell us about the types of people who interacted with the chatbot and how their responses about the survey questions. This information helps the team understand the campaigns. The dashboards also let the team compare different campaigns to see which ones are more successful with the audience.
 
-You can take on the role of a developer and create your own reports using data from the [TextIt API](https://textit.com/api/v2/explorer/). This allows you to tailor the analysis to your specific needs and gain unique insights into the campaign's performance. For mos information visit these sites:
+You can take on the role of a developer and create your own reports using data from the [TextIt API](https://textit.com/api/v2/explorer/). This allows you to tailor the analysis to your specific needs and gain unique insights into the campaign's performance. For most information, visit these sites:
 
 [https://whatyoungpeoplewant.whiteribbonalliance.org/en](https://whatyoungpeoplewant.whiteribbonalliance.org/en)
 [https://wypw.1point8b.org/en](https://wypw.1point8b.org/en)
